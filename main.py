@@ -11,7 +11,7 @@ from os import path, listdir
 import os
 import getpass
 
-
+#Modified from https://github.com/PabloNunes/Deep-Fryer
 def argInstructions():
     """ Shows what the script uses, what args it uses and what it does. """
     """ Only put images in the input folder, everything in the input folder will tried to be converted in images on the output folder.  """
